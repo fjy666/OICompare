@@ -1,5 +1,6 @@
 # OICompare
-A Compare program that compare your program to the std and gens data
+A Compare program that compare your program to the std and gens data  
+Windows. NO LINUX SUPPORT.
 
 # usage
 1. Compare [Your] [STD] [Generator]
