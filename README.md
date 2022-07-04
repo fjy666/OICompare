@@ -2,6 +2,8 @@
 A Compare program that compare your program to the std and gens data  
 Windows. NO LINUX SUPPORT.
 
+需要提前装好g++。不知道咋整的看这篇 [link](https://fjy-blog.blog.luogu.org/Visual-Studio-Code) Section. 2
+
 # usage
 1. Compare [Your] [STD] [Generator]
 
